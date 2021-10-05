@@ -1,0 +1,10 @@
+asgiref==3.2.7
+Django==3.0.7
+django-cors-headers==3.2.1
+django-filter==2.2.0
+djangorestframework==3.11.0
+lxml==4.5.1
+python-docx==0.8.10
+pytz==2020.1
+sqlparse==0.3.1
+psycopg2-binary==2.8.6

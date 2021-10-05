@@ -1,0 +1,3618 @@
+[
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 1,
+      "code": "1",
+      "description": "Общенаучное и междисциплинарное знание"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 2,
+      "code": "2 ",
+      "description": "Естественные науки (естествознание)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 3,
+      "code": "20 ",
+      "description": "Естественные науки в целом. Естествознание в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 4,
+      "code": "20.1 ",
+      "description": "Экология. Человек и окружающая среда. Экология человека. Экология в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 5,
+      "code": "20.18 ",
+      "description": "Экологическая защита и охрана окружающей среды. Рациональное природопользование. Охрана природы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 6,
+      "code": "20.3 ",
+      "description": "Аномальные явления в окружающей среде. Уфология. НЛО"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 7,
+      "code": "22 ",
+      "description": "Физико-математические науки (математика, механика, физика, астрономия)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 8,
+      "code": "22.1 ",
+      "description": "Математика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 9,
+      "code": "22.1я92 ",
+      "description": "Занимательная математика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 10,
+      "code": "22.13 ",
+      "description": "Теория чисел. Арифметика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 11,
+      "code": "22.14 ",
+      "description": "Алгебра"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 12,
+      "code": "22.15 ",
+      "description": "Геометрия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 13,
+      "code": "22.151.0 ",
+      "description": "Элементарная геометрия. Планиметрия. Стереометрия. Тригонометрия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 14,
+      "code": "22.16 ",
+      "description": "Математический анализ. Функциональный анализ"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 15,
+      "code": "22.17 ",
+      "description": "Теория вероятностей. Математическая статистика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 16,
+      "code": "22.18 ",
+      "description": "Математическая кибернетика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 17,
+      "code": "22.2 ",
+      "description": "Механика (наука о движении тел)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 18,
+      "code": " ",
+      "description": "Динамика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 19,
+      "code": "22.251 ",
+      "description": "Механика твердых деформируемых тел (сред)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 20,
+      "code": "22.253 ",
+      "description": "Гидромеханика и аэромеханика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 21,
+      "code": "22.3 ",
+      "description": "Физика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 22,
+      "code": "22.3я92 ",
+      "description": "Занимательная физика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 23,
+      "code": " ",
+      "description": "Теоретическая физика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 24,
+      "code": "22.32 ",
+      "description": "Акустика (наука о звуке)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 25,
+      "code": "22.33 ",
+      "description": "Электричество и магнетизм"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 26,
+      "code": "22.34 ",
+      "description": "Оптика (наука о свете)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 27,
+      "code": "22.36 ",
+      "description": "Молекулярная физика. Строение материи"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 28,
+      "code": "22.37 ",
+      "description": "Физика твердого тела. Кристаллография"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 29,
+      "code": "22.38 ",
+      "description": "Физика атомного ядра и элементарных частиц"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 30,
+      "code": "22.6 ",
+      "description": "Астрономия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 31,
+      "code": "22.6я92 ",
+      "description": "Занимательная астрономия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 32,
+      "code": "22.63 ",
+      "description": "Астрофизика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 33,
+      "code": "24 ",
+      "description": "Химические науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 34,
+      "code": "24.я92 ",
+      "description": "Занимательная химия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 35,
+      "code": "24.1 ",
+      "description": "Общая и неорганическая химия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 36,
+      "code": "24.2 ",
+      "description": "Органическая химия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 37,
+      "code": "26 ",
+      "description": "Науки о Земле (геодезия, геофизика, геология и география)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 38,
+      "code": "26.1 ",
+      "description": "Геодезия (наука об определении формы и размеров Земли и об измерениях на местности). Картография (наука о составлении и использовании карт)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 39,
+      "code": "26.2 ",
+      "description": "Геофизика (физика Земли)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 40,
+      "code": "26.23 ",
+      "description": "Метеорология. Погода и ее предсказания"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 41,
+      "code": "26.3 ",
+      "description": "Геология (наука о составе, строении и истории земной коры)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 42,
+      "code": "26.3л5 ",
+      "description": "Клубы и кружки юных геологов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 43,
+      "code": "26.8 ",
+      "description": "География"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 44,
+      "code": "26.8г ",
+      "description": "История географии и географических открытий. Биографии географов и путешественников"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 45,
+      "code": "26.8я6 ",
+      "description": "Географические карты и атласы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 46,
+      "code": "26.8я92 ",
+      "description": "Занимательная география"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 47,
+      "code": "  ",
+      "description": "Страноведение. Краеведение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 48,
+      "code": "26.89(0) ",
+      "description": "Весь мир. Все страны"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 49,
+      "code": "26.89(00) ",
+      "description": "Полярные страны"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 50,
+      "code": "26.89(2) ",
+      "description": "Россия. СССР (Литература о дореволюционной России, СССР)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 51,
+      "code": "26.89(2-2 Мос) ",
+      "description": "Москва"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 52,
+      "code": "26.89(2-2СПб)",
+      "description": "Санкт-Петербург"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 53,
+      "code": "26.89(2Рос) ",
+      "description": "Российская Федерация (РФ)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 54,
+      "code": "26.89(4) ",
+      "description": "Европа"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 55,
+      "code": "26.89(5) ",
+      "description": "Азия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 56,
+      "code": "26.89(6) ",
+      "description": "Африка"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 57,
+      "code": "26.89(7) ",
+      "description": "Америка"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 58,
+      "code": "26.89(8) ",
+      "description": "Австралия и Океания"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 59,
+      "code": "26.89(9) ",
+      "description": "Океаны и моря. Мировой океан"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 60,
+      "code": "28 ",
+      "description": "Биологические науки (науки о живой природе)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 61,
+      "code": "28.0 ",
+      "description": "Общая биология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 62,
+      "code": "28.08 ",
+      "description": "Общая экология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 63,
+      "code": "28.082 ",
+      "description": "Гидробиология (наука об организмах, обитающих в водной среде)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 64,
+      "code": "28.088 ",
+      "description": "Охрана живой природы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 65,
+      "code": "28.088л64 ",
+      "description": "Заповедники. Заказники. Национальные парки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 66,
+      "code": "28.1 ",
+      "description": "Палеонтология (наука об ископаемых животных и растениях)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 67,
+      "code": "28.3 ",
+      "description": "Вирусология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 68,
+      "code": "28.4 ",
+      "description": "Микробиология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 69,
+      "code": "28.5 ",
+      "description": "Ботаника (наука о растениях)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 70,
+      "code": "28.5л64 ",
+      "description": "Ботанические сады"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 71,
+      "code": "28.5с ",
+      "description": "Собирание и составление коллекций, гербариев"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 72,
+      "code": "28.6 ",
+      "description": "Зоология (наука о животных). Мир животных"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 73,
+      "code": "28.6л64 ",
+      "description": "Зоологические сады, парки, музеи"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 74,
+      "code": "28.6с ",
+      "description": "Собирание и составление коллекций животных"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 75,
+      "code": "28.7 ",
+      "description": "Биология человека. Антропология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 76,
+      "code": "3 ",
+      "description": "Техника. Технические науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 77,
+      "code": "30 ",
+      "description": "Техника и технические науки в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 78,
+      "code": "30г ",
+      "description": "История техники. Жизнь и деятельность ученых и изобретателей"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 79,
+      "code": "30л5 ",
+      "description": "Станции юных техников, дома технического творчества, кружки юных техников"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 80,
+      "code": "30л6 ",
+      "description": "Технические музеи и выставки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 81,
+      "code": "30н6 ",
+      "description": "Техника безопасности"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 82,
+      "code": "30у ",
+      "description": "Изобретательство и рационализация в области техники. Патентное дело"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 83,
+      "code": "30я92 ",
+      "description": "Технические самоделки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 84,
+      "code": "30.1 ",
+      "description": "Общетехнические дисциплины"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 85,
+      "code": "30.11 ",
+      "description": "Черчение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 86,
+      "code": "30.18 ",
+      "description": "Техническая эстетика. Промышленное искусство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 87,
+      "code": "30.3 ",
+      "description": "Сырье. Материалы. Материаловедение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 88,
+      "code": "30.6 ",
+      "description": "Общая технология. Основы промышленного производства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 89,
+      "code": "30.69 ",
+      "description": "Отходы и их использование"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 90,
+      "code": "31 ",
+      "description": "Энергетика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 91,
+      "code": "32 ",
+      "description": "Радиоэлектроника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 92,
+      "code": "32.81 ",
+      "description": "Кибернетика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 93,
+      "code": "32.81я92 ",
+      "description": "Кибернетика в самоделках"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 94,
+      "code": "32.811 ",
+      "description": "Теория информации. Общая теория связи"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 95,
+      "code": "32.816 ",
+      "description": "Кибернетические модели"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 96,
+      "code": "32.818 ",
+      "description": "Бионика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 97,
+      "code": "32.84 ",
+      "description": "Общая радиотехника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 98,
+      "code": "32.84я92 ",
+      "description": "Любительские и самодельные радиоприемники, радиотехнические игрушки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 99,
+      "code": "32.848 ",
+      "description": "Радиопередающие устройства (радиопередатчики)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 100,
+      "code": "32.849 ",
+      "description": "Радиоприемные устройства (радиоприемники)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 101,
+      "code": "32.85 ",
+      "description": "Электроника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 102,
+      "code": "32.85я92 ",
+      "description": "Самодельные электронные устройства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 103,
+      "code": "32.86 ",
+      "description": "Квантовая электроника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 104,
+      "code": "32.87 ",
+      "description": "Электроакустика. Техническая акустика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 105,
+      "code": "32.88 ",
+      "description": "Электрическая связь"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 106,
+      "code": "32.884 ",
+      "description": "Радиосвязь и техника радиовещания"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 107,
+      "code": "32.94 ",
+      "description": "Телевидение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 108,
+      "code": "32.95 ",
+      "description": "Радиолокация. Радиодальнометрия. Радиопеленгация. Радионавигация"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 109,
+      "code": "32.96 ",
+      "description": "Автоматика и телемеханика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 110,
+      "code": "32.97 ",
+      "description": "Вычислительная техника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 111,
+      "code": "32.973 ",
+      "description": "Компьютеры (электронно-вычислительные машины)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 112,
+      "code": "32.973-018 ",
+      "description": "Программирование для ЭВМ"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 113,
+      "code": "32.973-018.1 ",
+      "description": "Языки программирования"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 114,
+      "code": "32.973-018.2 ",
+      "description": "Программное обеспечение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 115,
+      "code": "32.973-018.228 ",
+      "description": "Компьютерные игры"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 116,
+      "code": "32.973-04 ",
+      "description": "Элементы и узлы ЭВМ"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 117,
+      "code": "32.973.202 ",
+      "description": "Компьютерные системы и сети"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 118,
+      "code": "32.974 ",
+      "description": "Неэлектронные вычислительные машины и устройства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 119,
+      "code": "32.99 ",
+      "description": "Рентгенотехника. Инфракрасная и ультрафиолетовая техника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 120,
+      "code": "33 ",
+      "description": "Горное дело"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 121,
+      "code": "34 ",
+      "description": "Металлургия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 122,
+      "code": "35 ",
+      "description": "Химические производства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 123,
+      "code": "36 ",
+      "description": "Пищевые производства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 124,
+      "code": "36.99 ",
+      "description": "Кулинария. Поваренные книги"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 125,
+      "code": "37 ",
+      "description": "Технология древесины. Производства легкой промышленности. Домоводство. Бытовые услуги. Полиграфическое производство. Фотокинотехника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 126,
+      "code": "37.1 ",
+      "description": "Деревообрабатывающие производства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 127,
+      "code": "37.1я92 ",
+      "description": "Самоделки из дерева"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 128,
+      "code": "37.2 ",
+      "description": "Производства легкой промышленности"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 129,
+      "code": "37.248 ",
+      "description": "Рукоделие (шитье, вышивание, макраме, изделия из природных материалов, бумаги)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 130,
+      "code": "37.279 ",
+      "description": "Домоводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 131,
+      "code": "37.8 ",
+      "description": "Полиграфическое производство. Книгопечатание"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 132,
+      "code": "37.874 ",
+      "description": "Машинопись"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 133,
+      "code": "37.9 ",
+      "description": "Фотокинотехника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 134,
+      "code": "37.94 ",
+      "description": "Фототехника. Фотография"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 135,
+      "code": "37.95 ",
+      "description": "Кинотехника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 136,
+      "code": "38 ",
+      "description": "Строительство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 137,
+      "code": "38.9 ",
+      "description": "Благоустройство населенных мест"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 138,
+      "code": "39 ",
+      "description": "Транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 139,
+      "code": "39.2 ",
+      "description": "Железнодорожный транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 140,
+      "code": "39.2л5 ",
+      "description": "Детские железные дороги"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 141,
+      "code": "39.3 ",
+      "description": "Автодорожный транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 142,
+      "code": "39.4 ",
+      "description": "Водный транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 143,
+      "code": "39.4г ",
+      "description": "История водного транспорта. Биографии моряков"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 144,
+      "code": "39.4л5 ",
+      "description": "Клубы юных моряков"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 145,
+      "code": "39.49 ",
+      "description": "Аварийно-спасательное и водолазное дело"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 146,
+      "code": "39.5 ",
+      "description": "Воздушный транспорт. Авиация и воздухоплавание"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 147,
+      "code": "39.5г ",
+      "description": "История авиации и воздушного транспорта. Биографии летчиков"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 148,
+      "code": "39.54 ",
+      "description": "Летательные аппараты вертикального взлета и посадки, с подвижным крылом и без силовых установок"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 149,
+      "code": "39.59 ",
+      "description": "Воздухоплавание"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 150,
+      "code": "39.6 ",
+      "description": "Межпланетные сообщения (межпланетные полеты)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 151,
+      "code": "39.6г ",
+      "description": "История межпланетных сообщений. Биографии летчиков-космонавтов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 152,
+      "code": "39.7 ",
+      "description": "Трубопроводный транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 153,
+      "code": "39.8 ",
+      "description": "Городской транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 154,
+      "code": "39.808 ",
+      "description": "Безопасность и правила дорожного движения"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 155,
+      "code": "39.9 ",
+      "description": "Промышленный транспорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 156,
+      "code": "4 ",
+      "description": "Сельское и лесное хозяйство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 157,
+      "code": "4г ",
+      "description": "История сельского и лесного хозяйства. Жизнь и деятельность ученых"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 158,
+      "code": "4л5 ",
+      "description": "Детские сельскохозяйственные станции. Станции юных натуралистов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 159,
+      "code": "40.7 ",
+      "description": "Механизация и автоматизация сельского хозяйства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 160,
+      "code": "40.7я92 ",
+      "description": "Самодельные сельскохозяйственные машины и их модели"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 161,
+      "code": "41 ",
+      "description": "Общее растениеводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 162,
+      "code": "41.4 ",
+      "description": "Земледелие. Агротехника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 163,
+      "code": "42.1 ",
+      "description": "Полеводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 164,
+      "code": "42.2 ",
+      "description": "Кормопроизводство."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 165,
+      "code": "42.3 ",
+      "description": "Овощеводство. Садоводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 166,
+      "code": "42.37 ",
+      "description": "Декоративное садоводство и озеленение. Цветоводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 167,
+      "code": "43 ",
+      "description": "Лесное хозяйство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 168,
+      "code": "44 ",
+      "description": "Защита растений"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 169,
+      "code": "45 ",
+      "description": "Общее животноводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 170,
+      "code": "46.4 ",
+      "description": "Кролиководство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 171,
+      "code": "46.73 ",
+      "description": "Собаководство. Кинология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 172,
+      "code": "46.74 ",
+      "description": "Кошки домашние. Фелинология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 173,
+      "code": "46.75 ",
+      "description": "Грызуны (белки, крысы, хомяки, мыши, морские свинки и др.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 174,
+      "code": "46.76 ",
+      "description": "Животные, содержащиеся в цирках и зоопарках"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 175,
+      "code": "46.8 ",
+      "description": "Птицеводство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 176,
+      "code": "46.87 ",
+      "description": "Декоративные и певчие птицы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 177,
+      "code": "46.9 ",
+      "description": "Пчеловодство. Шелководство. Использование человеком других видов насекомых"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 178,
+      "code": "47 ",
+      "description": "Охотничье хозяйство. Рыбное хозяйство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 179,
+      "code": "47.287 ",
+      "description": "Декоративное рыбоводство. Аквариумистика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 180,
+      "code": "48 ",
+      "description": "Ветеринария"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 181,
+      "code": "5 ",
+      "description": "Здравоохранение. Медицина"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 182,
+      "code": "51 ",
+      "description": "Организация здравоохранения. Гигиена. Эпидемиология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 183,
+      "code": "51.2",
+      "description": "Гигиена"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 184,
+      "code": "51.204 ",
+      "description": "Личная гигиена. Здоровый образ жизни. Гигиена быта и отдыха"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 185,
+      "code": "51.23 ",
+      "description": "Гигиена питания. Рациональное питание (диетология)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 186,
+      "code": "52.8 ",
+      "description": "Фармакология и фармация (науки о лекарствах)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 187,
+      "code": "53.51 ",
+      "description": "Лечебное питание. Диетотерапия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 188,
+      "code": "53.54 ",
+      "description": "Физиотерапия и курортология. Лечебная физкультура"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 189,
+      "code": "6/8 ",
+      "description": "Общественные и гуманитарные науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 190,
+      "code": "60 ",
+      "description": "Общественные науки в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 191,
+      "code": "60.5",
+      "description": "Социология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 192,
+      "code": "60.6 ",
+      "description": "Статистика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 193,
+      "code": "60.7 ",
+      "description": "Демография"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 194,
+      "code": "60.8",
+      "description": "Социальное управление"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 195,
+      "code": "60.9",
+      "description": "Социальная защита Социальная работа"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 196,
+      "code": "63 ",
+      "description": "История. Исторические науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 197,
+      "code": "63л5 ",
+      "description": "Исторические кружки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 198,
+      "code": "63.215 ",
+      "description": "Геральдика. Эмблематика (гербы, флаги, эмблемы)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 199,
+      "code": "63.221 ",
+      "description": "Нумизматика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 200,
+      "code": "63.221-2 ",
+      "description": "Монеты. Клады монет"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 201,
+      "code": "63.221-3 ",
+      "description": "Фалеристика (ордена, медали, знаки отличия, нагрудные знаки, значки)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 202,
+      "code": "63.3(0) ",
+      "description": "Всемирная история"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 203,
+      "code": "63.3(0)2 ",
+      "description": "Первобытное общество"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 204,
+      "code": "63.3(0)3 ",
+      "description": "Древний мир"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 205,
+      "code": "63.3(0)31 ",
+      "description": "Древний Восток"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 206,
+      "code": "63.3(0)310 ",
+      "description": "Древний Египет"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 207,
+      "code": "63.3(0)32 ",
+      "description": "Античный мир"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 208,
+      "code": "63.3(0)321 ",
+      "description": "Древняя Греция"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 209,
+      "code": "63.3(0)323 ",
+      "description": "Древний Рим и Италия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 210,
+      "code": "63.3(0)329 ",
+      "description": "Другие народы и страны в античный период"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 211,
+      "code": "63.3(0)4 ",
+      "description": "Средние века (V в.- ХV вв.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 212,
+      "code": "63.3(0)5 ",
+      "description": "Новая история (ХVI в.-.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 213,
+      "code": "63.3(0)6 ",
+      "description": "Новейшая история (1918- )"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 214,
+      "code": "63.3(0)61 ",
+      "description": "Период 1918-1939гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 215,
+      "code": "63.3(0)62 ",
+      "description": "Период Второй мировой войны (1939-1945)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 216,
+      "code": "63.3(0)63",
+      "description": "Период 1945-конец 80-х гг. ХХ в. -…"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 217,
+      "code": "63.3(0)64 ",
+      "description": "Период с конца 80-х гг. ХХ в. -…"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 218,
+      "code": "63.3(0=…) ",
+      "description": "История отдельных народов, живущих рассредоточено в различных странах"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 219,
+      "code": "63.3(051) ",
+      "description": "История Евразии"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 220,
+      "code": "63.3(2)",
+      "description": "История России "
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 221,
+      "code": "63.3(2)л6 ",
+      "description": "Исторические музеи. Исторические памятники и памятные места. Охрана исторических памятников"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 222,
+      "code": "63.3(2)2 ",
+      "description": "Древнейшие племена и государства на территории России в 1 тыс. до н. э. - IX в. н. э."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 223,
+      "code": "63.3(2)4 ",
+      "description": "Россия в IX - XVII вв."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 224,
+      "code": "63.3(2)41 ",
+      "description": "Древняя Русь (IX - нач. XIII вв.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 225,
+      "code": "63.3(2)42 ",
+      "description": "Русь в XIII – XV вв."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 226,
+      "code": "63.3(2)43",
+      "description": "Российское государство во II пол. XV – XVI в. (Московское царство)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 227,
+      "code": "63.3(2)44 ",
+      "description": "Российское государство в кон. XVI - XVII в."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 228,
+      "code": "63.3(2)45 ",
+      "description": "Российское государство в XVII в."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 229,
+      "code": "63.3(2)5 ",
+      "description": "Россия в кон. XVII в. – ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 230,
+      "code": "63.3(2)51 ",
+      "description": "Россия в кон. XVII – XVIII вв."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 231,
+      "code": "63.3(2)511",
+      "description": "Россия в 1682 – 1725 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 232,
+      "code": "63.3(2)512 ",
+      "description": "Россия в 1725 – 1762 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 233,
+      "code": "63.3(2)513 ",
+      "description": "Россия в 1762 – 1801 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 234,
+      "code": "63.3(2)52 ",
+      "description": "Россия в XIX в."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 235,
+      "code": "63.3(2)521 ",
+      "description": "Россия в I пол. XIX в."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 236,
+      "code": "63.3(2)522 ",
+      "description": "Россия в кон. 50-х – I пол. 90-х гг. XIX в."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 237,
+      "code": "63.3(2)53 ",
+      "description": "Россия II пол. 90-х гг. XIX в. – октябрь ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 238,
+      "code": "63.3(2)53-7 ",
+      "description": "Культура «Серебряного века»"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 239,
+      "code": "63.3(2)532 ",
+      "description": "Период революции 1905 – 1907 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 240,
+      "code": "63.3(2)534",
+      "description": "Россия в 1914 – феврале ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 241,
+      "code": "63.3(2)535 ",
+      "description": "Россия в феврале – октябре."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 242,
+      "code": "63.3(2)6 ",
+      "description": "Россия с октября . - … История СССР (1922 – 1991)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 243,
+      "code": "63.3(2)6-8 ",
+      "description": "Персоналии государственных и общественно-политических деятелей"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 244,
+      "code": "63.3(2)61 ",
+      "description": "Россия и СССР с октября 1917 по ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 245,
+      "code": "63.3(2)611 ",
+      "description": "Период Октябрьской революции и установление советской власти (октябрь 1917- сер.1918г.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 246,
+      "code": "63.3(2)612 ",
+      "description": "Период Гражданской войны (1918 – 1920)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 247,
+      "code": "63.3(2)613 ",
+      "description": "Период восстановления народного хозяйства. Новая экономическая политика (НЭП) (1921 – кон. 20-х гг. XX в.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 248,
+      "code": "63.3(2)614 ",
+      "description": "СССР в конце 20-х гг. XX в. – ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 249,
+      "code": "63.3(2)62 ",
+      "description": "Период Второй мировой и Великой Отечественной войн (1939-1945)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 250,
+      "code": "63.3(2)621 ",
+      "description": "СССР с сентября 1939 по июнь ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 251,
+      "code": "63.3(2)622 ",
+      "description": "Великая Отечественная война (1941-1945г.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 252,
+      "code": "63.3(2)622-2 ",
+      "description": "История хозяйства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 253,
+      "code": "63.3(2)622.2 ",
+      "description": "Участие отдельных видов и родов войск в Великой Отечественной войне"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 254,
+      "code": "63.3(2)622.4 ",
+      "description": "Народное ополчение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 255,
+      "code": "63.3(2)622.5 ",
+      "description": "Партизанское движение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 256,
+      "code": "63.3(2)622.8 ",
+      "description": "Герои и участники Великой Отечественной войны"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 257,
+      "code": "63.3(2)622.81 ",
+      "description": "Дети – участники Великой Отечественной войны"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 258,
+      "code": "63.3(2)622.81 ",
+      "description": "Города-герои"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 259,
+      "code": "63.3(2)622.89 ",
+      "description": "Увековечение памяти героев и участников Великой Отечественной войны"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 260,
+      "code": "63.3(2)63 ",
+      "description": "СССР в 1945 – 1991 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 261,
+      "code": "63.3(2)631 ",
+      "description": "СССР с 1945 по март ."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 262,
+      "code": "63.3(2)632 ",
+      "description": "СССР в 1983 – 1964 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 263,
+      "code": "63.3(2)633 ",
+      "description": "СССР в 1965 – 1985 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 264,
+      "code": "63.3(2)634 ",
+      "description": "СССР в 1985 – 1991 гг."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 265,
+      "code": "63.3(2)64 ",
+      "description": "Россия с . - … Российская Федерация "
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 266,
+      "code": "63.3(3) ",
+      "description": "История зарубежных стран в целом "
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 267,
+      "code": "63.4 ",
+      "description": "Археология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 268,
+      "code": "63.5 ",
+      "description": "Этнология (этнография, народоведение)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 269,
+      "code": "63.5(2) ",
+      "description": "Народы России и СССР"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 270,
+      "code": "63.5(3) ",
+      "description": "Народы зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 271,
+      "code": "65 ",
+      "description": "Экономика. Экономические науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 272,
+      "code": "65я92 ",
+      "description": "Занимательная экономика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 273,
+      "code": "65.04 ",
+      "description": "Экономическая география и региональная экономика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 274,
+      "code": "65.04(2Рос) ",
+      "description": "Экономическая география России"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 275,
+      "code": "65.04(3) ",
+      "description": "Экономическая география зарубежных стран (экономико-географическое страноведение)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 276,
+      "code": "65.05 ",
+      "description": "Управление экономикой"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 277,
+      "code": "65.24 ",
+      "description": "Экономика труда"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 278,
+      "code": "65.240 ",
+      "description": "Трудовые ресурсы. Характеристика профессий"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 279,
+      "code": "65.26 ",
+      "description": "Финансы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 280,
+      "code": "65.27",
+      "description": "Страхование. Социальное страхование. Социальное обеспечение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 281,
+      "code": "65.29 ",
+      "description": "Бизнес. Предпринимательство. Экономика организации (предприятия, фирмы)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 282,
+      "code": "65.3 ",
+      "description": "Экономика отдельных отраслей хозяйства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 283,
+      "code": "65.5 ",
+      "description": "Мировая экономика. Международные экономические отношения"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 284,
+      "code": "65.9 ",
+      "description": "Экономика отдельных стран и регионов. Экономика Мирового Океана"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 285,
+      "code": "65.9(2Рос) ",
+      "description": "Экономика России"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 286,
+      "code": "65.9(2Рос…) ",
+      "description": "Экономика регионов России"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 287,
+      "code": "65.9(3) ",
+      "description": "Экономика зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 288,
+      "code": "65.9(9) ",
+      "description": "Экономика Мирового океана"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 289,
+      "code": "66 ",
+      "description": "Политика. Политическая наука"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 290,
+      "code": "66.2 ",
+      "description": "Политика и современное политическое положение в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 291,
+      "code": "66.3 ",
+      "description": "Внутренняя политика. Внутреннее положение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 292,
+      "code": "66.3 (2Рос) ",
+      "description": "Внутренняя политика и внутреннее положение Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 293,
+      "code": "66.2(3) ",
+      "description": "Политика и современное политическое положение отельных зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 294,
+      "code": "66.3 ",
+      "description": "Внутреннее положение. Внутренняя политика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 295,
+      "code": "66.3(2Рос) ",
+      "description": "Внутреннее положение. Внутренняя политика Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 296,
+      "code": "66.3 (2Рос)8",
+      "description": "Персоналии политических деятелей"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 297,
+      "code": "66.3(3) ",
+      "description": "Внутреннее положение. Внутренняя политика зарубежных стран и регионов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 298,
+      "code": "66.4 ",
+      "description": "Международные отношения. Внешняя политика. Дипломатия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 299,
+      "code": "66.4 (2Рос) ",
+      "description": "Международные отношения и внешняя Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 300,
+      "code": "66.4(3) ",
+      "description": "Международные отношения и внешняя политика зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 301,
+      "code": "66.6 ",
+      "description": "Политические движения и партии"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 302,
+      "code": "66.61 (2) ",
+      "description": "Коммунистическая партия Советского Союза (КПСС)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 303,
+      "code": "66.69 ",
+      "description": "Политические движения и партии отдельных стран и регионов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 304,
+      "code": "66.69(2) ",
+      "description": "Политические движения и партии России и СССР"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 305,
+      "code": "66.69(2Рос) ",
+      "description": "Политические движения и партии Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 306,
+      "code": "66.7 ",
+      "description": "Общественные движения и организации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 307,
+      "code": "66.7(2Рос) ",
+      "description": "Общественные движения и организации Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 308,
+      "code": "66.7(3) ",
+      "description": "Общественные движения и организации зарубежных стран и регионов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 309,
+      "code": "66.71 ",
+      "description": "Движения и организации по защите конституционных прав и свобод граждан"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 310,
+      "code": "66.72 ",
+      "description": "Профсоюзное движение. Профсоюзы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 311,
+      "code": "66.74 ",
+      "description": "Движение и организации женщин"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 312,
+      "code": "66.75 ",
+      "description": "Движение и организации молодежи"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 313,
+      "code": "66.76",
+      "description": "Движение и организации по развитию дружбы, солидарности и сотрудничества между народами"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 314,
+      "code": "66.77 ",
+      "description": "Движение и организации в защиту мира"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 315,
+      "code": "66.79 ",
+      "description": "Другие общественные движения и организации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 316,
+      "code": "67 ",
+      "description": "Право. Юридические науки"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 317,
+      "code": "67.400 ",
+      "description": "Конституционное (государственное) право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 318,
+      "code": "67.401 ",
+      "description": "Административное право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 319,
+      "code": "67.401.132 ",
+      "description": "Охрана государственной безопасности"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 320,
+      "code": "67.401.133 ",
+      "description": "Охрана правопорядка"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 321,
+      "code": "67.404 ",
+      "description": "Гражданское и торговое право. Семейное право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 322,
+      "code": "67.404.5 ",
+      "description": "Семейное право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 323,
+      "code": "67.405 ",
+      "description": "Трудовое право и право социального обеспечения"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 324,
+      "code": "67.407 ",
+      "description": "Природоресурсное право. Природоохранительное (экологическое) право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 325,
+      "code": "67.408 ",
+      "description": "Уголовное право"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 326,
+      "code": "67.7 ",
+      "description": "Суд. Прокуратура. Органы расследования. Адвокатура. Нотариат"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 327,
+      "code": "67.9 ",
+      "description": "Международное право. Право отдельных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 328,
+      "code": "67.99(2Рос) ",
+      "description": "Право России"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 329,
+      "code": "67.99(3) ",
+      "description": "Право зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 330,
+      "code": "68 ",
+      "description": "Военное дело. Военная наука"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 331,
+      "code": "68.4 (2) ",
+      "description": "Вооруженные Силы России, СССР, Российской Федерации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 332,
+      "code": "68.4(2)м8 ",
+      "description": "День защитника Отечества"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 333,
+      "code": "68.4(3) ",
+      "description": "Вооруженные силы зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 334,
+      "code": "68.5 ",
+      "description": "Отдельные виды вооруженных сил, рода войск и службы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 335,
+      "code": "68.8 ",
+      "description": "Военная техника"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 336,
+      "code": "68.8г ",
+      "description": "История оружия. Конструкторы военной техники"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 337,
+      "code": "68.8л6 ",
+      "description": "Выставки военной техники"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 338,
+      "code": "68.9 ",
+      "description": "Гражданская защита"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 339,
+      "code": "7 ",
+      "description": "Культура. Наука. Просвещение (литература общего характера)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 340,
+      "code": "71 ",
+      "description": "Культура. Культурология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 341,
+      "code": "72 ",
+      "description": "Наука"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 342,
+      "code": "73 ",
+      "description": "Научно-информационная деятельность"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 343,
+      "code": "74 ",
+      "description": "Образование. Педагогическая наука"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 344,
+      "code": "74.00 ",
+      "description": "Общая педагогика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 345,
+      "code": "74.03 ",
+      "description": "История образования и педагогической мысли"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 346,
+      "code": "74.04 ",
+      "description": "Организация образования"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 347,
+      "code": "74.04(2) ",
+      "description": "Организация образования в России и СССР"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 348,
+      "code": "74.04(3) ",
+      "description": "Организация образования в зарубежных странах"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 349,
+      "code": "74.05 ",
+      "description": "Непрерывное образование"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 350,
+      "code": "74.1 ",
+      "description": "Дошкольное воспитание. Дошкольная педагогика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 351,
+      "code": "74.2 ",
+      "description": "Общеобразовательная школа. Педагогика школы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 352,
+      "code": "74.24 ",
+      "description": "Организация общеобразовательной школы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 353,
+      "code": "74.26",
+      "description": "Методика преподавания учебных предметов в общеобразовательной школе"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 354,
+      "code": "74.27 ",
+      "description": "Детское движение и организации"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 355,
+      "code": "74.3",
+      "description": "Образование взрослых Андрагогика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 356,
+      "code": "74.4 ",
+      "description": "Профессиональное и специальное образование. Вузы, техникумы, колледжи, ПТУ"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 357,
+      "code": "74.4я2 ",
+      "description": "Справочники для поступающих"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 358,
+      "code": "74.5",
+      "description": "Специальные школы Коррекционная (специальная) педагогика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 359,
+      "code": "74.54",
+      "description": "Воспитание и обучение детей со сложными (комплексными) нарушениями развития"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 360,
+      "code": "74.56",
+      "description": "Воспитание и обучение детей с задержкой психического развития (ЗПР)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 361,
+      "code": "74.57",
+      "description": "Логопедия"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 362,
+      "code": "74.6",
+      "description": "Специализированные отрасли педагогики"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 363,
+      "code": "74.9",
+      "description": "Семейное воспитание и образование. Семейная педагогика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 364,
+      "code": "74.92",
+      "description": "Семейное (домашнее) обучение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 365,
+      "code": "75 ",
+      "description": "Физическая культура и спорт"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 366,
+      "code": "75.5 ",
+      "description": "Игры. Спортивные игры"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 367,
+      "code": "75.6",
+      "description": "Гимнастика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 368,
+      "code": "75.7 ",
+      "description": "Отдельные виды спорта"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 369,
+      "code": "75.8 ",
+      "description": "Туризм. Альпинизм"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 370,
+      "code": "76 ",
+      "description": "Средства массовой информации. Книжное дело"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 371,
+      "code": "76.19 ",
+      "description": "Коллекционирование произведений печати. Коллекционирование книг (библиофилия), коллекционирование книжных знаков (экслибрисов), спичечных этикеток (филумения) и др. "
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 372,
+      "code": "76.196 ",
+      "description": "Коллекционирование марок (филателия)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 373,
+      "code": "76.197 ",
+      "description": "Коллекционирование открыток (филокартия) "
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 374,
+      "code": "77 ",
+      "description": "Досуг и отдых (литература общего характера). Хобби"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 375,
+      "code": "78 ",
+      "description": "Библиотечное дело. Библиография (библиографические пособия: указатели, списки, обзоры см. 91)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 376,
+      "code": "78.303 ",
+      "description": "Чтение. Работа с книгой"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 377,
+      "code": "79 ",
+      "description": "Охрана памятников природы, истории и культуры. Музейное дело. Архивное дело"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 378,
+      "code": "80 ",
+      "description": "Филологические науки в целом"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 379,
+      "code": "81 ",
+      "description": "Языкознание (наука о языке)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 380,
+      "code": "81.2Рус ",
+      "description": "Русский язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 381,
+      "code": "81.2 Рус-4 ",
+      "description": "Русский язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 382,
+      "code": "81.2Англ ",
+      "description": "Английский язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 383,
+      "code": "81.2Англ-4 ",
+      "description": "Английский язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 384,
+      "code": "81.2Исп ",
+      "description": "Испанский язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 385,
+      "code": "81.2Исп 4",
+      "description": "Испанский язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 386,
+      "code": "81.2Итал ",
+      "description": "Итальянский язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 387,
+      "code": "81.2Итал 4",
+      "description": "Итальянский язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 388,
+      "code": "81.2Нем ",
+      "description": "Немецкий язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 389,
+      "code": "81.2Нем 4",
+      "description": "Немецкий язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 390,
+      "code": "81.2Фр ",
+      "description": "Французский язык"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 391,
+      "code": "81.2Фр 4",
+      "description": "Французский язык. Словари"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 392,
+      "code": "82",
+      "description": "Фольклористика (собирание и изучение произведений устного народного творчества)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 393,
+      "code": "83 ",
+      "description": "Литературоведение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 394,
+      "code": "83.7 ",
+      "description": "Ораторское искусство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 395,
+      "code": "84 ",
+      "description": "Художественная литература(произведения). Фольклор (произведения)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 396,
+      "code": "84(0) ",
+      "description": "Мировая литература (сборники произведений всех или нескольких стран)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 397,
+      "code": "84(0)3 ",
+      "description": "Произведения литературы древнего мира"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 398,
+      "code": "84(2) ",
+      "description": "Произведения литературы России и СССР"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 399,
+      "code": "84(2)я92 ",
+      "description": "Литературное творчество детей России и СССР"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 400,
+      "code": "84(2Рос=Рус) ",
+      "description": "Произведения русской литературы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 401,
+      "code": "84(2Рос=Рус)1 ",
+      "description": "Произведения русской литературы до 1917г."
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 402,
+      "code": "84(2Рос=Рус)6 ",
+      "description": "Произведения русской литературы ХХв. (1917- )"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 403,
+      "code": "84(3) ",
+      "description": "Произведения литературы зарубежных стран"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 404,
+      "code": "84.2 ",
+      "description": "Фольклор (произведения)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 405,
+      "code": "84.2(0) ",
+      "description": "Мировой фольклор"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 406,
+      "code": "84.2(2Рос=Рус)",
+      "description": "Русский фольклор"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 407,
+      "code": "84.2(3) ",
+      "description": "Фольклор зарубежных стран (типовые деления как в русском фольклоре)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 408,
+      "code": "85 ",
+      "description": "Искусство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 409,
+      "code": "85.1 ",
+      "description": "Изобразительное искусство и архитектура"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 410,
+      "code": "85.101 ",
+      "description": "Охрана памятников искусства. Художественные музеи, коллекции, собрания"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 411,
+      "code": "85.12 ",
+      "description": "Декоративно-прикладное искусство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 412,
+      "code": "85.3 ",
+      "description": "Музыка и зрелищные искусства"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 413,
+      "code": "85.31 ",
+      "description": "Музыка"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 414,
+      "code": "85.314 ",
+      "description": "Вокальная музыка"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 415,
+      "code": "85.32 ",
+      "description": "Танец"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 416,
+      "code": "85.33 ",
+      "description": "Театр"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 417,
+      "code": "85.34 ",
+      "description": "Праздники, елки, карнавалы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 418,
+      "code": "85.35 ",
+      "description": "Цирк"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 419,
+      "code": "85.36 ",
+      "description": "Эстрада"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 420,
+      "code": "85.37 ",
+      "description": "Киноискусство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 421,
+      "code": "85.38 ",
+      "description": "Художественное радиовещание и телевидение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 422,
+      "code": "85.7 ",
+      "description": "Художественная самодеятельность"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 423,
+      "code": "86 ",
+      "description": "Религия. Мистика. Свободомыслие"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 424,
+      "code": "86.2 ",
+      "description": "Религиоведение"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 425,
+      "code": "86.3 ",
+      "description": "Отдельные религии"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 426,
+      "code": "86.37 ",
+      "description": "Христианство"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 427,
+      "code": "86.4 ",
+      "description": "Мистика (магия, гадания, оккультизм)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 428,
+      "code": "86.7 ",
+      "description": "Свободомыслие"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 429,
+      "code": "87 ",
+      "description": "Философия. Логика. Этика. Эстетика"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 430,
+      "code": "87.3 ",
+      "description": "История философии"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 431,
+      "code": "87.4 ",
+      "description": "Логика (наука о законах и формах мышления)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 432,
+      "code": "87.7 ",
+      "description": "Этика (наука о морали, нравственности)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 433,
+      "code": "87.703.7 ",
+      "description": "Нравственные проблемы любви, семьи и секса"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 434,
+      "code": "87.774 ",
+      "description": "Культура поведения. Этикет"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 435,
+      "code": "87.8 ",
+      "description": "Эстетика (наука о прекрасном, об общих законах художественного творчества)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 436,
+      "code": "88 ",
+      "description": "Психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 437,
+      "code": "88.1 ",
+      "description": "История психологии"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 438,
+      "code": "88.2 ",
+      "description": "Общая психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 439,
+      "code": "88.3 ",
+      "description": "Психология личности"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 440,
+      "code": "88.4",
+      "description": "Психология развития и возрастная психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 441,
+      "code": "88.5",
+      "description": "Социальная психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 442,
+      "code": "88.6",
+      "description": "Педагогическая психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 443,
+      "code": "88.7",
+      "description": "Медицинская(клиническая) психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 444,
+      "code": "88.8",
+      "description": "Психология труда и профессиональной деятельности"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 445,
+      "code": "88.9",
+      "description": "Практическая(прикладная) психология"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 446,
+      "code": "9 ",
+      "description": "Литература универсального содержания"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 447,
+      "code": "91 ",
+      "description": "Библиографические пособия (указатели, списки, обзоры)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 448,
+      "code": "92 ",
+      "description": "Справочные издания (энциклопедии, словари, справочники, адресные книги, календари и др.)"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 449,
+      "code": "94 ",
+      "description": "Серии. Сборники"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 450,
+      "code": "94.8 ",
+      "description": "Сборники цитат, мыслей, афоризмов"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 451,
+      "code": "95",
+      "description": "Журналы"
+    }
+  },
+  {
+    "model": "catalog.bbk",
+    "fields": {
+      "id": 452,
+      "code": "99.2 ",
+      "description": "Сборники игр, развлечений, самоделок"
+    }
+  }
+]
